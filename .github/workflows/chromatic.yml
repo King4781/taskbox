@@ -9,7 +9,7 @@ jobs:
   test:
     # Operating System
     runs-on: ubuntu-latest
-     env:
+    env:
       CHROMATIC_PROJECT_TOKEN: 94895d019099
     # Job steps
     steps:
